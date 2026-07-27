@@ -17,4 +17,5 @@ def shortener(txt):
             shortened_char_list.append(c)
     return shortened_char_list
 
-main()
+if __name__ == "__main__":
+    main()
